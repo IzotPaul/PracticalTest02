@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/student/eim/Laborator03/solutions/PracticalTest/app/src/main/assets"/><source path="/home/student/eim/Laborator03/solutions/PracticalTest/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/student/eim/Laborator03/solutions/PracticalTest/app/src/debug/assets"/></dataSet></merger>
